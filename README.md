@@ -174,8 +174,7 @@
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/kiu3y/kiu3y/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  ![snake gif](https://github.com/kiu3y/kiu3y/blob/output/github-snake-dark.svg)
 </p>
 
 ------
