@@ -174,7 +174,7 @@
 ----
 
 <p align="center">
-  ![snake gif](https://github.com/kiu3y/kiu3y/blob/output/github-snake-dark.svg)
+  ![snake gif](https://raw.githubusercontent.com/kiu3y/kiu3y/output/github-snake-dark.svg)
 </p>
 
 ------
