@@ -143,38 +143,31 @@
 
 ----
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Reach me</h3>
 
 <div style="margin-top:10px" align="center">
   <div>
     </a>
-    <a href="https://codepen.io/@example" target="_blank">
+    <a href="https://x.com/kurliss" target="_blank">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
     </a>
   </div>
 </div>
 
-<h3 align="center">Reach me</h3>
-
-<p align="center">
-  <a  href="https://t.me/example" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
-</p>
 
 ----
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=kiu3y-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/kiu3y)
+[![](https://github-readme-stats.vercel.app/api?username=kiu3y&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/kiu3y)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=kiu3y&theme=material-palenight)](https://github.com/kiu3y)
 </div>
 
 ----
 
 <p align="center">
-  ![snake gif](https://raw.githubusercontent.com/kiu3y/kiu3y/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/kiu3y/kiu3y/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ------
